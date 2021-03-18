@@ -4,10 +4,15 @@ I impressed by Mr Braille’s works and as social responsibility, I couldn’t i
 My website link : https://bakhshiali.com/projects/braille-system/
 
 I’d tried the code in Jupyter Notebook and got the results as :
+
+
 In [2] : English2Braiile(‘hi, i am ali bakhshi.’)
+
 Out[2]: ‘⠓⠊⠠⠀⠊⠀⠁⠍⠀⠁⠇⠊⠀⠃⠁⠅⠓⠎⠓⠊⠨’
 
+
 In  [3]: Braille2English(‘⠓⠊⠠⠀⠊⠀⠁⠍⠀⠁⠇⠊⠀⠃⠁⠅⠓⠎⠓⠊⠨’)
+
 Out[3]: ‘hi, i am ali bakhshi.’
 
 #future developments :
