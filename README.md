@@ -1,5 +1,5 @@
 # Braille
-I impressed by Mr Braille’s works and as social responsibility, I couldn’t ignore the opportunity to learn Braille system. Here we are
+I was impressed by Mr Braille’s works and as social responsibility, I couldn’t ignore the opportunity to learn the Braille system. Here we are
 
 My website link : https://bakhshiali.com/projects/braille-system/
 
