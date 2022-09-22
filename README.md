@@ -1,7 +1,7 @@
 # Braille
 I was impressed by Mr Braille’s works and as social responsibility, I couldn’t ignore the opportunity to learn the Braille system. Here we are
 
-My website link : https://bakhshiali.com/projects/braille-system/
+My website link : https://bakhshiali.github.io/projects/BraillesystemPython
 
 I’d tried the code in Jupyter Notebook and got the results as :
 
